@@ -1,0 +1,9 @@
+package com.hui.dao;
+
+public class eare {
+
+	public static void main(String[] args) {
+		System.out.println("djfksda ");
+		System.out.println("asdasdxcvx");
+	}
+}

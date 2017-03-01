@@ -1,0 +1,13 @@
+package com.hui.dao;
+
+public class dfadf {
+
+	public static void main(String[] args) {
+		System.out.println("dkfajsdfksaf");
+		System.out.println("dfdf");
+		System.out.println("dfdfs");
+		System.out.println("fasdasdasdada");
+		System.out.println("i2jkjkjdsa");
+System.out.println("i2jkjkjdsa");System.out.println("i2jkjkjdsa");System.out.println("i2jkjkjdsa");System.out.println("i2jkjkjdsa");
+	}
+}
